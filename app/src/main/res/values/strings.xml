@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EXO-CBX Profile</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Detail</string>
+    <string name="ttl">TTL :</string>
+    <string name="ttl_describe">TTL_Describe</string>
+    <string name="describtion">Describtion</string>
+    <string name="born">Born :</string>
+    <string name="member_profile">Member Profile</string>
+    <string name="exo_cbx"> EXO-CBX   </string>
+    <string name="Introduce">
+        Exo-CBX (Hangul: 엑소-첸백시 Exo-Chen-Baek-Xi) is the first official sub-unit of South Korean boy group Exo.
+        Formed by S.M. Entertainment in 2016, the group is composed of three Exo members: Chen, Baekhyun, and Xiumin. Their debut extended play Hey Mama! was released on October 31, 2016.\n
+        On July 29, 2016, Chen, Baekhyun and Xiumin appeared in a video titled "Reservoir Idols" during Exo's concert tour Exo Planet 3 – The Exo'rdium. They then released an original soundtrack titled "For You" for the SBS television drama series Moon Lovers: Scarlet Heart Ryeo on August 23, 2016. As a result, it was speculated that they would form Exo's first sub-unit. This was confirmed by S.M. Entertainment on October 5. On October 23, they performed "For You" for the first time as a unit at the 2016 Busan One Asia Festival. On October 24, the unit's name was announced to be EXO-CBX (shortened from ChenBaekXi), after the first letter of the members' stage names.
+    </string>
+</resources>
